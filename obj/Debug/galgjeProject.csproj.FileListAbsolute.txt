@@ -1,0 +1,9 @@
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\bin\Debug\galgjeProject.exe.config
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\bin\Debug\galgjeProject.exe
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\bin\Debug\galgjeProject.pdb
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.csproj.AssemblyReference.cache
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.Properties.Resources.resources
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.csproj.GenerateResource.cache
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.csproj.CoreCompileInputs.cache
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.exe
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.pdb
