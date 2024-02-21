@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace galgjeProject
 {
-    public partial class frmStart : Form
+    public partial class Form2 : Form
     {
-        public frmStart()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

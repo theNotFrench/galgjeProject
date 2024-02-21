@@ -7,3 +7,4 @@ C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debu
 C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.csproj.CoreCompileInputs.cache
 C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.exe
 C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.pdb
+C:\Users\omen\Documents\Rayan 6IB\C#\galgje\galgjeProject\galgjeProject\obj\Debug\galgjeProject.frmStart.resources
